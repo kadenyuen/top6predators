@@ -1,0 +1,103 @@
+img{
+position: absolute;
+width: 716px;
+height: 513px;
+left: 0px;
+top: -4px;
+padding:10px;
+background-color: black;
+
+}
+body{
+	font-family: 'Indie Flower', cursive;
+	text-align: left;
+	font-size:30px;
+	flex-wrap: wrap;
+	justify-content: center;
+	background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+}
+
+.letter{
+	position: absolute;
+width: 644px;
+height: 112px;
+left: 738px;
+top: 114px;
+font-size: 30px;
+line-height: 56px;
+}
+.letter2{
+position: absolute;
+width: 515px;
+height: 112px;
+left: 769px;
+top: 253px;
+font-size:30px;
+line-height: 56px;
+}
+.letter3{
+	position: absolute;
+width: 697px;
+height: 112px;
+left: 743px;
+top: 397px;
+font-size: 30px;
+line-height: 56px;
+
+}
+
+.letter4{
+	position: absolute;
+width: 1359px;
+height: 112px;
+left: 19px;
+top: 573px;
+font-size: 30px;
+line-height: 56px;
+
+}
+
+.letter5{
+	position: absolute;
+width: 1255px;
+height: 85px;
+left: 104px;
+top: 749px;
+font-size: 30px;
+line-height: 56px;
+
+}
+
+.letter6{
+	position: absolute;
+width: 426px;
+height: 79px;
+left: 847px;
+top: 8px;
+font-size: 64px;
+line-height: 79px;
+text-align: center;
+
+}
+
+.letter7{
+	position: absolute;
+width: 426px;
+height: 79px;
+left: 1060px;
+top: 898px;
+font-size: 64px;
+line-height: 79px;
+text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
