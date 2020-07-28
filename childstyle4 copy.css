@@ -6,7 +6,6 @@ left: 0px;
 top: -4px;
 padding:10px;
 background-color: black;
-border-radius: 94px;
 
 }
 body{
@@ -20,36 +19,35 @@ body{
 
 .letter{
 position: absolute;
-width: 579px;
-height: 420px;
-left: 766px;
-top: 154px;
+width: 524px;
+height: 336px;
+left: 797px;
+top: 181px;
 font-size: 36px;
 line-height: 42px;
-color: #B6A375;
+
 }
 .letter2{
 position: absolute;
-width: 1266px;
-height: 44px;
-left: 49px;
-top: 633px;
+width: 1186px;
+height: 121px;
+left: 83px;
+top: 596px;
 font-size: 36px;
 line-height: 42px;
-color: #B6A375;
-
 }
 
 
 .letter4{
 position: absolute;
-width: 1296px;
-height: 42px;
-left: 49px;
-top: 860px;
+width: 1172px;
+height: 191px;
+left: 107px;
+top: 717px;
 font-size: 36px;
 line-height: 42px;
-color: #B6A375;
+
+
 
 }
 

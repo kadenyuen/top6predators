@@ -15,49 +15,38 @@ body{
 	font-size:30px;
 	flex-wrap: wrap;
 	justify-content: center;
-	background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+ background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
 }
-
 .letter{
 position: absolute;
-width: 579px;
-height: 420px;
-left: 766px;
-top: 154px;
+width: 599px;
+height: 84px;
+left: 762px;
+top: 145px;
 font-size: 36px;
 line-height: 42px;
-color: #B6A375;
+color: #453C3C;
 }
-.letter2{
-position: absolute;
-width: 1266px;
-height: 44px;
-left: 49px;
-top: 633px;
-font-size: 36px;
-line-height: 42px;
-color: #B6A375;
 
-}
+
 
 
 .letter4{
 position: absolute;
-width: 1296px;
-height: 42px;
-left: 49px;
-top: 860px;
+width: 1278px;
+height: 89px;
+left: 73px;
+top: 603px;
 font-size: 36px;
 line-height: 42px;
-color: #B6A375;
-
+color: #453C3C;
 }
 
 
 
 
 .letter6{
-	position: absolute;
+position: absolute;
 width: 426px;
 height: 79px;
 left: 847px;
@@ -65,12 +54,11 @@ top: 8px;
 font-size: 64px;
 line-height: 79px;
 text-align: center;
-color: #B6A375;
-
+color: #453C3C;
 }
 
 .letter7{
-	position: absolute;
+position: absolute;
 width: 426px;
 height: 79px;
 left: 1060px;
@@ -78,8 +66,7 @@ top: 898px;
 font-size: 64px;
 line-height: 79px;
 text-align: center;
-color: #B6A375;
-
+color: #453C3C;
 }
 
 
