@@ -15,9 +15,8 @@ body{
 	font-size:30px;
 	flex-wrap: wrap;
 	justify-content: center;
-	background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
 }
-
 .letter{
 position: absolute;
 width: 579px;
@@ -82,12 +81,64 @@ color: #B6A375;
 
 }
 
+.letter8{
+position: absolute;
+width: 398px;
+height: 56px;
+left: 505px;
+top: 917px;
+font-size: 48px;
+line-height: 56px;
+}
 
 
+.letter8{
+position: absolute;
+width: 398px;
+height: 56px;
+left: 505px;
+top: 917px;
+font-size: 48px;
+line-height: 56px;
+}
+.letter7:hover {
+	
+	color: black;
+}
 
 
+a {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	color: black;
 
+}
+body {
 
+              animation: fadeIn 3s;
 
+}
 
+ 
 
+@keyframes fadeIn {
+
+ 
+
+              0%{
+
+                            opacity: 0;         
+
+}
+
+             
+
+              100%{
+
+                            opacity: 1;
+
+              }
+
+}

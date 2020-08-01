@@ -15,7 +15,7 @@ body{
 	font-size:30px;
 	flex-wrap: wrap;
 	justify-content: center;
-	background: linear-gradient(90deg, #9ebd13 0%, #008552 100%);
+	background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);
 }
 .letter{
 position: absolute;
@@ -80,10 +80,56 @@ color: #19E2B2;
 
 
 
+.letter8{
+position: absolute;
+width: 398px;
+height: 56px;
+left: 505px;
+top: 917px;
+font-size: 48px;
+line-height: 56px;
+}
 
 
+.letter7:hover {
+	
+	color: black;
+}
 
 
+a {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	color: black;
 
+}
+
+body {
+
+              animation: fadeIn 3s;
+
+}
+
+ 
+
+@keyframes fadeIn {
+
+ 
+
+              0%{
+
+                            opacity: 0;         
+
+}
+
+             
+
+              100%{
+
+                            opacity: 1;
+
+              }
 
 

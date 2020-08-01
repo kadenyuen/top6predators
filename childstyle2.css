@@ -97,11 +97,47 @@ color: #CB5613;
 
 }
 
+.letter7:hover {
+	
+	color: black;
+}
 
 
+a {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	color: black;
 
+}
+body {
 
+              animation: fadeIn 3s;
 
+}
+
+ 
+
+@keyframes fadeIn {
+
+ 
+
+              0%{
+
+                            opacity: 0;         
+
+}
+
+             
+
+              100%{
+
+                            opacity: 1;
+
+              }
+
+}
 
 
 

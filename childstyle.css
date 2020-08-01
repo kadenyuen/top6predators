@@ -93,12 +93,58 @@ text-align: center;
 
 }
 
+.letter8{
+position: absolute;
+width: 398px;
+height: 56px;
+left: 505px;
+top: 917px;
+font-size: 48px;
+line-height: 56px;
+}
 
 
+.letter7:hover {
+	
+	color: black;
+}
 
 
+a {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	color: black;
 
+}
+body {
 
+              animation: fadeIn 3s;
+
+}
+
+ 
+
+@keyframes fadeIn {
+
+ 
+
+              0%{
+
+                            opacity: 0;         
+
+}
+
+             
+
+              100%{
+
+                            opacity: 1;
+
+              }
+
+}
 
 
 
